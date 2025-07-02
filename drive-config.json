@@ -1,0 +1,30 @@
+{
+    "videos": {
+        "base": "https://drive.google.com/uc?export=view&id=",
+        "ids": {
+            "hero-image": "",
+            "html-video": "",
+            "css-video": "",
+            "js-video": "",
+            "php-video": "",
+            "python-video": "",
+            "vuejs-video": "",
+            "angular-video": ""
+        }
+    },
+    "assets": {
+        "base": "https://drive.google.com/uc?export=view&id=",
+        "ids": {
+            "favicon": "",
+            "html-logo": "",
+            "css-logo": "",
+            "js-logo": "",
+            "php-logo": "",
+            "python-logo": "",
+            "vuejs-logo": "",
+            "angular-logo": "",
+            "uvs-logo": "",
+            "footer-logo": ""
+        }
+    }
+}
